@@ -1,0 +1,1 @@
+# interfaz/__init__.py  (vacío — marca el paquete)
